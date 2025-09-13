@@ -1,0 +1,29 @@
+{
+  "name": "rplace-backend",
+  "version": "1.0.0",
+  "description": "Backend para CSV/place - Canvas colaborativo estilo Reddit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "csvplace",
+    "reddit",
+    "canvas",
+    "collaborative",
+    "pixel-art",
+    "socket.io",
+    "express"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
