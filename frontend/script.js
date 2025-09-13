@@ -1,5 +1,5 @@
 // ⚠️ Cambia esta URL al backend en Render
-const socket = io("https://mi-r-place-backend.onrender.com"); // <-- ✏️ ¡Pega aquí la URL de tu backend de Render!
+const socket = io("https://csv-place.onrender.com"); // <-- ✏️ ¡Pega aquí la URL de tu backend de Render!
 
 // Elementos del DOM
 const canvas = document.getElementById("board");
